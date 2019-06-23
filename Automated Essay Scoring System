@@ -1,0 +1,20 @@
+1. Project Description
+In this project, an automated essay scoring system is built to score essays as human expert graders.
+Because of the subjectivity and the fact that process is time consuming, methods of checking student’s
+grasp of course material have become uncreative and now include multiple-choice or fill-in-blank tests.
+These limit the ability of students to express their understanding freely and emphatically. If the manual
+grading process can be relieved by an efficient and accurate automated grading system, essays and other
+creative methods could be frequently used to indicate academic achievements. We are introducing a model
+that forms word representations by learning the extent to which specific words contribute to the text’s
+score and predict a final essay grade on a marking scale. Our model will typically use a large range of
+textual features that correspond to different properties of text, such as grammar, vocabulary, style, topic
+relevance, and discourse coherence and cohesion.
+
+A detailed description of the columns contained within the dataset can be found at:
+https://www.kaggle.com/c/asap-aes/data . The table above shows the summary statistics based on the
+parameters from the dataset.
+
+Potential Methodologies
+Some of the methodologies that we could use for this project are: KNN, Neural Networks, Long Short
+Term Memory, and Clustering, which are types of Supervised Learning and Unsupervised Learning
+utilizing the TensorFlow and Keras packages that come with Python.
